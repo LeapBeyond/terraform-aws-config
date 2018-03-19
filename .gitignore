@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate.backup
+*.tfstate
+.DS_Store
+terraform.tfvars
+env.rc
+*.pem
+*key
+*.pub
+*.zip
